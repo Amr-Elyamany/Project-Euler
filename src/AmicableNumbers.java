@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-
+// test for git change
 
 public class AmicableNumbers {
 
